@@ -25,7 +25,7 @@ permalink: /
   <div class="col-md-3 mb-3">
     <img src="{{ '/assets/img/IMG_5740_Original.jpg' | relative_url }}" class="img-fluid rounded mb-3" alt="Profile photo">
 
-    <h6 class="text-muted">Hobby</h6>
+    <!-- <h6 class="text-muted">Hobby</h6>
 
     <div style="display:flex; flex-wrap:wrap; gap:0.4rem;">
       <a class="badge badge-pill badge-light" style="border:1px solid var(--global-divier-color);">📷 Photography</a>
@@ -33,7 +33,7 @@ permalink: /
       <a class="badge badge-pill badge-light" style="border:1px solid var(--global-divier-color);">🎾 Tennis</a>
       <a class="badge badge-pill badge-light" style="border:1px solid var(--global-divier-color);">🚘 Road Trips</a>
       <a class="badge badge-pill badge-light" style="border:1px solid var(--global-divier-color);">🤿 Water Activities</a>
-    </div>
+    </div> -->
   </div>
   <div class="col-md-9">
     <p>
