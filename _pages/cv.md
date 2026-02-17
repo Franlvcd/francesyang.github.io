@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: assets/pdf/CV_Frances_Yang_26.pdf
+permalink: assets/pdf/CV_homepage.pdf
 title: CV
 nav: true
 nav_order: 3
